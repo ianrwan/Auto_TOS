@@ -1,0 +1,14 @@
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\cs file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\cs file.AssemblyInfoInputs.cache
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\cs file.AssemblyInfo.cs
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\cs file.csproj.CoreCompileInputs.cache
+C:\Code\autoGame\Quick\cs file\bin\Debug\net7.0\cs file.exe
+C:\Code\autoGame\Quick\cs file\bin\Debug\net7.0\cs file.deps.json
+C:\Code\autoGame\Quick\cs file\bin\Debug\net7.0\cs file.runtimeconfig.json
+C:\Code\autoGame\Quick\cs file\bin\Debug\net7.0\cs file.dll
+C:\Code\autoGame\Quick\cs file\bin\Debug\net7.0\cs file.pdb
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\cs file.dll
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\refint\cs file.dll
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\cs file.pdb
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\cs file.genruntimeconfig.cache
+C:\Code\autoGame\Quick\cs file\obj\Debug\net7.0\ref\cs file.dll
